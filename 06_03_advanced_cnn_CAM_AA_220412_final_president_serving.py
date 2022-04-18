@@ -3,6 +3,9 @@
 ## 설치
 # pip install streamlit
 
+## 학습된 모델파일 경로에 위치시키자
+# output_president 폴더 안에 best_model.pt 파일이 있어야 함
+
 ##실행
 # streamlit run 06_03_advanced_cnn_CAM_AA_220412_final_president_serving.py
 
